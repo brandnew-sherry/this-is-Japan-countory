@@ -1,0 +1,31 @@
+name: Auto Assign
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - name: 'Auto-assign issue'
+      uses: pozil/auto-assign-issue@v1
+      with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: vabee4489
+          numOfAssignee: 1
+本当にそうか???赤字国債対策になるのか？？ネット通貨で???
+やりすぎても損は無いって英語でなんて言うの？ - DMM英会話なんてuKnow? https://eikaiwa.dmm.com/uknow/questions/99614/ #なんてuKnow 
+ああコロナ。そうだよなーーーー自分が死ぬって時は合うよ😱
+凡人...
+ああ並子読むね....one of good name,
+I like it....
+Someone likes blue,i heard...
+水彩画のイメージ、パステル
+水に溶いた塗料だね
+ああ白だ！白い紙なら描けない。
+ディテールが出る...迫力感が違うね
+一族される外ならではの光なら室内は照明だし。そりゃー我々は室内に暮らすの

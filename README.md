@@ -1,0 +1,6 @@
+# Welcome to your organization's demo respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+
+The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+本当に連絡とって下さいだの何だの❗今何時よ都知事批判。何のおねえさんね➰ーー子供じゃーないよね❗夜勤
+https://x.com/lee_hiroko/status/1800913142995952002?s=09[](url)
